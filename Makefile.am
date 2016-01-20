@@ -16,7 +16,7 @@ SUBDIRS = \
 	random \
 	agent \
 	nice \
-	gst \
+	gst
 
 DISTCHECK_CONFIGURE_FLAGS = --disable-assert -enable-gtk-doc --enable-introspection
 
