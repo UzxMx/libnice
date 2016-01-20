@@ -25,11 +25,6 @@ AC_CONFIG_FILES([
 	nice/nice.pc
 	random/Makefile
 	gst/Makefile
-	docs/Makefile
-	docs/reference/Makefile
-	docs/reference/libnice/Makefile
-	tests/Makefile
-	examples/Makefile
 	])
 
 # Set the libtool C/A/R version info
