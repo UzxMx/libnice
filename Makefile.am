@@ -17,8 +17,6 @@ SUBDIRS = \
 	agent \
 	nice \
 	gst \
-	tests \
-	examples
 
 DISTCHECK_CONFIGURE_FLAGS = --disable-assert -enable-gtk-doc --enable-introspection
 
